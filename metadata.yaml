@@ -1,0 +1,32 @@
+_repo: The-Sea-beach-at-Ebb-tideLife-Found-Between-Tide-marks_43946
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43946-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arnold, Augusta Foote
+    birthdate: 1844
+    deathdate: 1903
+    gutenberg_agent_id: '42498'
+    url: http://www.gutenberg.org/2009/agents/42498
+    wikipedia: http://www.gutenberg.org/browse/authors/r#a37257
+description: ''
+gutenberg_issued: '2013-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43946'
+  lccn: 01031815
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marine algae'
+- !lcsh 'Seashore biology'
+- !lcsh 'Marine plants'
+- !lcsh 'Marine animals'
+- !lcc 'QH'
+title: "The Sea-beach at Ebb-tide\r\nA Guide to the Study of the Seaweeds and the\
+  \ Lower Animal Life Found Between Tide-marks"
+url: http://www.gutenberg.org/ebooks/43946
