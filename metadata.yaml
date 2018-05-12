@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42498
     wikipedia: http://www.gutenberg.org/browse/authors/r#a37257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43946#The-Sea-beach-at-Ebb-tideLife-Found-Between-Tide-marks
 gutenberg_issued: '2013-10-13'
 gutenberg_type: Text
 identifiers:
